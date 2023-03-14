@@ -1,2 +1,3 @@
-# algoritmo_estruturada
-Disciplina UCB
+# Algoritmo e Programação Estruturada
+## Profa. Joyce Siqueira
+Códigos desenvolvidos em aula
